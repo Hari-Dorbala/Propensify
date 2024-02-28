@@ -27,5 +27,7 @@ B. **SourceCode_Pipeline_Capstone** : It contains the pipeline of operations. It
 
 C. **test_with.predictions** : Excel file with predictions
 
+**NOTE: Please change the path to files to run the source code. The current path is set to the path at which files are present in my system.**
+
 
  
