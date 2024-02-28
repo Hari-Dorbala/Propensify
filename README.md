@@ -9,7 +9,7 @@ train,
 test
 
 # Generated files
-A. **Documentation_Capstone_Propensify** : It explains the reasoning behind various steps involved in the model training. 
+A. **Documentation_Capstone_Propensify.pdf** : It explains the reasoning behind various steps involved in the model training. 
 
 **Contents present in Documentation_Capstone_Propensify:**
 
@@ -26,6 +26,8 @@ features
 B. **SourceCode_Pipeline_Capstone** : It contains the pipeline of operations. It generates the required file, i.e., test data with predictions on whom to market and whom not to.
 
 C. **test_with.predictions** : Excel file with predictions
+
+D. **Documentation_Capstone_Propensify.ipynb** : Contains the ipynb file of **Documentation_Capstone_Propensify.pdf** document.
 
 **NOTE: Please change the path to files to run the source code. The current path is set to the path at which files are present in my system.**
 
