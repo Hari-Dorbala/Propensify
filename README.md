@@ -29,7 +29,9 @@ C. **test_with.predictions** : Excel file with predictions
 
 D. **Documentation_Capstone_Propensify.ipynb** : Contains the ipynb file of **Documentation_Capstone_Propensify.pdf** document.
 
-**NOTE: Please change the path to files to run the source code. The current path is set to the path at which files are present in my system.**
+****NOTE: 
+1. Please change the path to files to run the source code. The current path is set to the path at which files are present in my system.
+2. Please run the **SourceCode_Pipeline_Capstone** ipynb file to get the predictions.** **
 
 
  
