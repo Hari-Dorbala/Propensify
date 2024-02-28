@@ -29,9 +29,9 @@ C. **test_with.predictions** : Excel file with predictions
 
 D. **Documentation_Capstone_Propensify.ipynb** : Contains the ipynb file of **Documentation_Capstone_Propensify.pdf** document.
 
-E. **propensify_model.joblib** : Contains joblib file of the trained model
+E. **propensify_model.joblib** : Contains joblib file of the trained model created and used in SourceCode_Pipeline_Capstone
 
-F. 
+F. **preprocessing_pipeline.joblib** : Contains joblib file of preprocessing pipeline created and used in SourceCode_Pipeline_Capstone
 
 **NOTE: Please change the path to files to run the source code. The current path is set to the path at which files are present in my system.
           Please run the **SourceCode_Pipeline_Capstone** ipynb file to get the predictions.**
