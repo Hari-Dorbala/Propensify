@@ -1,6 +1,6 @@
 # Propensify
 # About:
-The insurance company has provided a historical data set (train.csv). 
+An insurance company has provided a historical data set (train.csv). 
 The company has provided with a list of potential customers to whom to market (test.csv). 
 From this list of potential customers, the ML model determines whom to market to and whom not to and saves the same to an Excel file (test_with.predictions excel file).
 
